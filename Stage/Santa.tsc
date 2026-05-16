@@ -19,24 +19,21 @@
 
 
 #0120
-<KEY<MSG<TUR
-DANGER!!!
-This trap is instant death!
-Use extreme caution!<NOD<END
+<KEY<MSG<TURWatch out! Deathtrap to your left.
+One touch means instant death!<NOD<END
 
 
 #0300
 <ITJ0008:0301
-<KEY<MSG
-Flames billow...<NOD<FLJ0242:0000
-Charcoal burns in Santa's fireplace.<NOD<END
+<KEY<MSG*Crackle* *Snap!*<NOD<FLJ0242:0000
+The charcoal burns fiercely.<NOD<END
 #0301
-<KEY<GIT1008<MSG
-Use the Jellyfish Juice?<YNJ0000<CLO<GIT0000
+<KEY<GIT1008<MSGDo you want to use the
+=Jellyfish Juice=?<YNJ0000<CLO<GIT0000
 <IT-0008<ANP0300:0010:0000<WAI0030<FLJ0242:0302<FL+0242
-<MSG
-There's something within the ashes...<NOD<CLR<GIT1012<IT+0012
-<CMU0010Obtained some Charcoal.<WAI0160<NOD<CLO<RMU<DNP0300<END
+<MSGYou find something in the
+ashes...<NOD<CLR<GIT1012<IT+0012
+<CMU0010Got the =Charcoal=.<WAI0160<NOD<CLO<RMU<DNP0300<END
 
 #0302
 <KEY<DNP0300<END
@@ -48,31 +45,26 @@ There's something within the ashes...<NOD<CLR<GIT1012<IT+0012
 <FLJ0484:0504
 <FLJ0241:0503
 <FLJ0240:0502
-<KEY<FL+0240<MSG
-Thanks again for the help earlier.<NOD
-I'd like to give you something.<NOD<GIT0003<AM+0003:0000<CLR
-<CMU0010Obtained the Fireball.<WAI0160<NOD<RMU<GIT0000<CLR
-Are you looking for someone?<NOD
-I haven't seen anyone around here.<NOD
-But if you plan on going further in,
-you'll need to go through the fireplace
-inside Chako's house.<NOD<FL+0241<END
+<KEY<FL+0240<MSGThanks, you really saved me there.<NOD
+Here, you can have this.<NOD<GIT0003<AM+0003:0000<CLR
+<CMU0010Got the =Fireball=!<WAI0160<NOD<RMU<GIT0000<CLRYou're looking for someone?<NOD
+I haven't seen anyone else
+around here.<NOD
+If you want to go searching
+farther in,<NOD
+you'll have to pass through the
+fireplace in Chaco's house...<NOD<FL+0241<END
 #0503
-<KEY<MSG
-If you go through the fireplace in
-Chako's house you can get into the
-other side of the bush.<NOD<END
+<KEY<MSGYou can get to the inner part of
+Grasstown by passing through the
+fireplace in Chaco's house.<NOD<END
 #0504
-<KEY<MSG
-You want some Charcoal?<NOD<CLR
-If it's the charcoal from the fireplace
-you want, then go ahead and take it.<NOD<END
+<KEY<MSGYou need some =Charcoal=?<NOD
+You can take what's in my
+fireplace, if you like.<NOD<END
 #0505
-<KEY<MSG
-What are you going to use that 
-charcoal for?<NOD<END
+<KEY<MSGWhat do you need charcoal for?<NOD<END
 #0506
-<KEY<MSG
-I heard a crash of some kind.<NOD
-Then what sounded like someone 
-screaming...<NOD<END
+<KEY<MSGI heard some kind of crash outside
+a little while ago.<NOD
+That and screams of terror...<NOD<END
