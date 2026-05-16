@@ -20,25 +20,21 @@
 
 
 #0200
-<KEY<MSG
-It's Professor Booster's memo.<NOD
-Do you want to read it?<YNJ0000<CLR<TUR
-Further investigation of the island
-is feasible if a device to aid with
-airborne mobility is available.<NOD<CLR
-For this, I will begin development of
-the Booster rocket.<NOD<CLR
-Development of this aerial device will
-have multiple phases, with two
-Booster versions: v0.8 and v2.0.<NOD<CLR
-The plan is to make v0.8 to be
-equipped and permit some form of
-aerial propulsion.<NOD<CLR
-And as long as I can survive,
-v2.0 will also be completed.<NOD
-It being even more indispensable.<NOD<CLO
+<KEY<MSGYou find a note written by
+Booster.<NOD
+Would you like to read it?<YNJ0000<CLR<TURExploration of the island's
+interior would be more effectively
+accomplished, I suspect,<NOD<CLRhad we equipment to facilitate
+aerial movement.<NOD<CLRThus, I have duly begun
+development upon the "Booster".<NOD<CLRDevelopment of this flying apparatus
+will take place in two stages,
+versions 0.8 and 2.0.<NOD<CLRMy plans call for v0.8 to be
+equippable and to allow for a
+certain amount of hovering.<NOD<CLRI'm sure I can complete v2.0,
+provided I only live long enough.<NOD<CLRIt promises to be an even more
+useful item.<NOD<CLO
 <FLJ0161:0000<WAI0050<MS2
-    As long as I don't die...<WAI0050<NOD<END
+    Provided I only live...<WAI0050<NOD<END
 
 
 

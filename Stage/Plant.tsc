@@ -26,46 +26,35 @@
 
 
 #0105
-<PRI<MSGWant to save?<YNJ0000<SVP<CLR
-Game saved.<NOD<END
+<PRI<MSGWant to save?<YNJ0000<SVP<CLRGame saved.<NOD<END
 #0106
-<PRI<LI+1000<SOU0020<AE+<MSG
-Life replenished.<NOD<END
+<PRI<LI+1000<SOU0020<AE+<MSGEnergy replenished.<NOD<END
 
 #0200
-<KEY<MSG
-This is the farm where we grow flowers.<NOD
-My job is to protect this farm...<NOD<CLR
-To us Mimiga these flowers are a 
-precious source of food.<NOD<CLR
-But not the red flowers.<NOD<CLR
-I heard that if we eat red flowers our
-blood pressure skyrockets and we'll
-die in an instant!<NOD<CLR
-Fortunately, on this farm we don't grow
-those vile red flowers.<NOD<END
+<KEY<MSGThis is our farm.
+We raise flowers here.<NOD
+My job is to watch over the farm.<NOD<CLRWe Mimigas depend on these flowers
+for sustenance.<NOD<CLRRed flowers, though, are bad news.<NOD<CLRIf you eat a red flower,
+they say your blood starts to
+boil, and soon you fall over dead!<NOD<CLRGood thing we don't have any
+of those growing here.<NOD<END
 
 
 #0220
-<KEY<FLJ1020:0221<MSG
-It's a sprinkler.<NOD<END
+<KEY<FLJ1020:0221<MSGA sprinkler.<NOD<END
 #0221
-<KEY<MSG
-It's fixed firmly to the ground!<NOD<END
+<KEY<MSGIt's fixed firmly to the ground!<NOD<END
 
 #0300
 <PRI
 <FL+0410
 <DNP0300
-<MSG
-You don't see anything...<NOD<CLR<CMU0010<GIT1005<IT+0005
-How did you get the Beast Fang?
-...<WAI0160<NOD<CLO
+<MSGYou see something gleaming...<NOD<CLR<CMU0010<GIT1005<IT+0005
+Got the =Beast Fang=.<WAI0160<NOD<CLO
 <RMU<END
 
 #0400
 <PRI<SOU0022<DNP0400<CMU0016
-<MSG<GIT1006
-Obtained a Life Capsule.<WAI0160<NOD<RMU<ML+0003
-Max life increased by 3.<NOD<END
+<MSG<GIT1006Got a =Life Capsule=!<WAI0160<NOD<RMU<ML+0003
+Max life increased by 3!<NOD<END
 

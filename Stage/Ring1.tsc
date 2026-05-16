@@ -48,11 +48,9 @@
 Ahhh!<NOD<CLO
 <ANP0400:1010:0005<WAI0100
 <FLJ1020:0401
-<MSG<FAC0126
-Ughhh...<FAC0026<NOD<CLO<FAC0000<EVE0402
+<MSG<FAC0126Ergh...!<FAC0026<NOD<CLO<FAC0000<EVE0402
 #0401
-<MSG<FAC0126
-You...<FAC0026<NOD<CLO<FAC0000<EVE0402
+<MSG<FAC0126You...!<FAC0026<NOD<CLO<FAC0000<EVE0402
 #0402
 <CNP0400:0082:0005<WAI0010
 <ANP0400:0020:0005<WAI0150<CMU0015
@@ -77,21 +75,18 @@ Defeated Misery!<WAI0140<NOD<CLO
 <KEY<DNP0500<MYD0002
 <CMP0000:0010:0021
 <CMP0000:0011:0021
-<MSG<FAC0116
-It's you again!<FAC0016<NOD<CLO<FAC0000
+<MSG<FAC0116So it's you.<FAC0016<NOD<CLO<FAC0000
 <ANP0400:0020:0000<WAI0060
-<MSG<FAC0115
-You really are tenacious.<FAC0015<NOD<CLR<FAC0115
-To destroy the core...
-Is that why you're here?<FAC0015<NOD<CLR<FAC0115
-Before I thought you were
-just a reckless little robot,
-but I underestimated you.<FAC0015<NOD<CLR
-.....<NOD<CLR<FAC0115
-You should know, I have no
-regrets about this island.<FAC0015<NOD<CLR<FAC0115
-It is my fate to obey the one
-who wears the crown.<FAC0015<NOD<CLR
+<MSG<FAC0115You really are a tenacious
+one, I'll grant you that.<FAC0015<NOD<CLR<FAC0115I suppose you're here to
+destroy the core?<FAC0015<NOD<CLR<FAC0115I used to consider you
+merely an out-of-control
+robot,<FAC0015<NOD<CLR<FAC0115but I see I misjudged you.<FAC0015<NOD<CLR
+.....<NOD<CLR<FAC0115You should know that I
+carry no affection for
+this island.<FAC0015<NOD<CLR<FAC0115It is simply my fate that
+I must obey the one who
+wields the Crown.<FAC0015<NOD<CLR
 <FAC0116Prepare yourself!!<FAC0016<NOD<CLR
 <BSL0400
 <ANP0400:0100:0000<CMU0007<END
@@ -99,13 +94,11 @@ who wears the crown.<FAC0015<NOD<CLR
 <KEY<DNP0500<MYD0002
 <CMP0000:0010:0021
 <CMP0000:0011:0021
-<MSG<FAC0116
-Ha ha!<FAC0016<NOD<CLR<FAC0116
-You look hilarious!<FAC0016<NOD<CLO<FAC0000
+<MSG<FAC0116Hee-hee-hee...<FAC0016<NOD<CLR<FAC0116My, don't you look
+peculiar...<FAC0016<NOD<CLO<FAC0000
 <ANP0400:0020:0000<WAI0060
-<MSG<FAC0115
-Whatever,<FAC0015<NOD<FAC0115
-I was getting bored.<FAC0015<NOD<CLR<FAC0116
-Fight me!<FAC0016<NOD<CLR
+<MSG<FAC0115Well, good.<FAC0015<NOD<FAC0115
+I was growing bored.<FAC0015<NOD<CLR<FAC0116Let's see what you're
+made of.<FAC0016<NOD<CLR
 <BSL0400
 <ANP0400:0100:0000<CMU0007<END
