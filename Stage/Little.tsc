@@ -19,44 +19,38 @@
 <PRI
 <FLJ1373:0206
 <FLJ1372:0202
-<MSG
-Home sweet home is the best!<NOD<CLR
-Wow wow,<NOD
-That's a beautiful sword there.
-How about we trade it for my
-splendid gun?<YNJ0201<FL+1372<CLR
-<TAM0009:0012:0000<GIT0009Gave him the Blade.<NOD<CLR
-<CMU0010<GIT0012Obtained the Nemesis!<WAI0160<NOD<RMU<END
+<MSGAh, it's good to be back.<NOD<CLROho,<NOD if that isn't a fine-
+looking blade you've got
+there.<NOD
+Care to trade it for my fabulous
+gun?<YNJ0201<FL+1372<CLR
+<TAM0009:0012:0000<GIT0009Gave him the =Blade=.<NOD<CLR
+<CMU0010<GIT0012Got the =Nemesis=!<WAI0160<NOD<RMU<END
 #0201
-<PRI<MSG
-Well, that's no good.<NOD<END
+<PRI<MSGReally? Too bad.<NOD<END
 
 #0202
-<PRI<MSG
-Did you like my splendid gun?<YNJ0203<CLR
-I thought so!<NOD
-Good to know.<NOD<END
+<PRI<MSGSo, how do you like my fabulous
+gun? It treating you well?<YNJ0203<CLRAha!<NOD
+Glad to hear it.<NOD<END
 #0203
 <PRI<FL-1372<MSG
-Fine, you can have the sword back...<NOD
-But you must return my splendid
-gun right this moment...<NOD<TAM0012:0009:0000<CLR
-<GIT0012Gave him the Nemesis.<NOD<CLR
-<CMU0010<GIT0009Got back the Blade!<WAI0160<NOD<RMU<END
+All right, I'll give your sword
+back.<NOD
+But you've got to give me my
+fabulous gun back as well.<NOD<TAM0012:0009:0000<CLR
+<GIT0012Gave him the =Nemesis=.<NOD<CLR
+<CMU0010<GIT0009Got back the =Blade=!<WAI0160<NOD<RMU<END
 
 #0210
 <PRI<FLJ1370:0211<FL+1371
-<MSG
-Where'd that husband of mine go...<NOD<CLR
-Have you seen my husband?<NOD<END
+<MSGNow where did that man run
+off to...<NOD<CLRYou haven't seen my husband,
+have you?<NOD<END
 #0211
-<PRI<MSG
-Thank you for taking care of my
-wandering husband.<NOD
-<END
+<PRI<MSGThank you for your help.<NOD<END
 #0220
-<PRI<MSG
-Who are you?<NOD<END
+<PRI<MSGWho're you, mister?<NOD<END
 
 #0500
 <KEY<CNP0250:<FAI0000<END

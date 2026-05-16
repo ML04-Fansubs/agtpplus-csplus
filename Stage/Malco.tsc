@@ -26,145 +26,124 @@
 <FLJ0480:0101
 <PRI<SOU0011<DNP0100<FAO0004<TRA0006:0094:0171:0017
 #0101
-<PRI<MSG
-It won't open!<NOD<END
+<PRI<MSGIt won't open!<NOD<END
 #0200
 <FLJ0481:0202
-<KEY<MSG
-Fan Power Supply Offline.<NOD
-Malco Power Supply Offline.<NOD<CLR
-Turn Power On?<YNJ0000<CLR<2MV0001
-<SOU0043<FL+0481<CNP0201:0102:0000Power is On.<NOD<CLO
+<KEY<MSGFans are OFF.<NOD
+MALCO is OFF.<NOD<CLRSet power to ON?<YNJ0000<CLR<2MV0001
+<SOU0043<FL+0481<CNP0201:0102:0000Power ON.<NOD<CLO
 <KEY<CMU0000<ANP0300:0010:0000<WAI0020<MYD0002<WAI0450
-<CMU0004<MSG
-INTRUDER SIGHTED!<NOD
-TERMINATE IMMEDIATELY!<NOD<CLO<WAI0050
-<MSG
-Oh Yeaaah!!<NOD<CLO
+<CMU0004<MSGINTRUDER ALERT!<NOD
+COMMENCE DESTRUCTION!!<NOD<CLO<WAI0050
+<MSGHuzzah!<NOD<CLO
 <CNP0203:0009:0000<WAI0050
 <CMU0000<ANP0300:0021:0000<WAI0080<CMU0011
 <CNP0203:0012:0000
-<MSG<FAC0105
-Did you know that the
+<MSG<FAC0105Did YOU know that the
 Mimiga I found wasn't
-Sue?<FAC0005<YNJ0204<CLR<FAC0205
-Yep!<NOD<EVE0204
+Sue?<FAC0005<YNJ0204<CLR<FAC0205That's right!<NOD<EVE0204
 #0201
 #0202
 <PRI<MSG
-Power Supply operation: Normal.<NOD<END
+Power functioning normally.<NOD<END
 #0203
 <KEY<CNP0203:0012:0000<ANP0203:0020:0004<WAI0140
 <PRI<MSG<FAC0105
-What are you!?!<FAC0005<NOD<FAC0000<KEY<CLO
+What ARE you?!<FAC0005<NOD<FAC0000<KEY<CLO
 <WAI0100<CMU0015
 <MSG
-Defeated Balrog!<WAI0140<NOD
+Fought off Balrog!<WAI0140<NOD
 <ACH0030
 <CMU0008<FL-0480<FL+0482<END
 #0204
-<KEY<MSG<FAC0105
-She wasn't Sue!!<FAC0005<NOD<CLR<FAC0105
-Because of that, the Doctor
-was extremely upset.<FAC0005<NOD<FAC0105
-Misery received quite the
-beat down.<FAC0005<NOD
-<FAC0014<ANP0203:0030:0000Pity, since she's just a girl.<NOD<CLR<FAC0105
-Well, the master can't be
-disobeyed so...<FAC0005<NOD<FAC0105
-That's our fate.<FAC0005<NOD<CLR<FAC0105
-This time I'm here to break
-you for real.<FAC0005<NOD<FAC0105
-Better prepare yourself!<FAC0005<NOD<CLO
+<KEY<MSG<FAC0105She WASN'T!!<FAC0005<NOD<CLR<FAC0105The Doctor had a
+HUGE fit.<FAC0005<NOD<FAC0105
+Smacked Misery around
+pretty hard.<FAC0005<NOD
+<FAC0014<ANP0203:0030:0000Poor girl, don't you
+think?<NOD<CLR<FAC0105But after all, we can't
+defy our master.<FAC0005<NOD<FAC0105
+So goeth the rule.<FAC0005<NOD<CLR<FAC0105Anyway, I'm here to
+break you apart.<FAC0005<NOD<FAC0105
+Doctor's orders, of
+course.<FAC0005<NOD<FAC0105
+Ya ready?<FAC0005<NOD<CLO
 <CMU0004<CNP0203:0036:0000<BSL0203<FL+0480<END
 #0250
-<KEY<MSG<TUR
-Booting up...<NOD<END
+<KEY<MSG<TURSetting up...<NOD<END
 #0300
 <FLJ0483:0303
 <FLJ0481:0301
-<KEY<MSG
-It's a robot...<NOD
-Looks like it's not powered-on.<NOD<END
+<KEY<MSGA robot...?<NOD
+It doesn't seem to have any
+power.<NOD<END
 #0301
-<PRI<MSG
-.....<NOD<CLR
-The head's been crushed in.<NOD<FLJ0482:0302<NOD<END
+<PRI<MSG.....<NOD<FLJ0482:0302
+Its head is bashed in.<NOD<NOD<END
 #0302
 <KEY<MSG
-Its body is jammed into the floor.<NOD<CLR
-Do you want to pull its body out?<YNJ0000<CLO<WAI0050
+Its body has been smashed into
+the ground.<NOD<CLR
+Do you want to pull it out?<YNJ0000<CLO<WAI0050
 <CNP0300:0109:0004
 <ANP0300:0010:0004
 <MYB0300<WAI0050<MYD0300<FL+0483<FL+0485
 <MSG
-Th--<NODThank you...<NOD<CLR
-You are a good person.<NOD
-And on top of that so strong!<NOD<CLR
-Thank you for saving me!<NOD<CLR
-I would like to do something for you to
-express my gratitude!<NOD<CLR
-But, with that said, I am only capable
-of making bombs...<NOD<FLJ0216:0304<END
+THA...<NODTHANK YOU...<NOD<CLRYOU'RE A NICE PERSON.<NOD
+AND SO STRONG!<NOD<CLRTHANKS FOR SAVING ME!<NOD<CLRI'D LIKE TO PAY YOU BACK
+SOMEHOW,<NOD<CLRBUT ALL I KNOW HOW TO DO IS
+MAKE EXPLOSIVES...<NOD<FLJ0216:0304<END
 #0303
 <FLJ0830:0315
 <FLJ0520:0314
 <FLJ0486:0313
 <ITJ0011:0310
 <FLJ0484:0305
-<KEY<MSG
-I would like to do something to
-express my gratitude!<NOD<CLR
-But, with that said,
-I am only capable of making bombs...<NOD<FLJ0216:0304<END
+<KEY<MSGI'D LIKE TO PAY YOU BACK
+SOMEHOW,<NOD<CLRBUT ALL I KNOW HOW TO DO IS
+MAKE EXPLOSIVES...<NOD<FLJ0216:0304<END
 #0304
-You want to open the rusty door?<NOD<CLR
-What!!<NOD
-Someone is trapped inside!<NOD<CLR
-You definitely are a good person!<NOD<CLR
-I understand!<NOD
-Let us make a bomb then!<NOD
-We will demolish that door!<NOD<FL+0484<EVE0305
+HMMM?<NOD
+THE DOOR'S RUSTED AND YOU CAN'T
+GET IT OPEN?<NOD<CLRWHAT?!<NOD
+A HUMAN IS TRAPPED INSIDE?!<NOD<CLR
+YOU TRULY ARE A GOOD PERSON!<NOD<CLRUNDERSTOOD!<NOD
+I'LL MAKE A WONDERFUL BOMB
+FOR YOU!<NOD
+WE'LL BLOW THAT DOOR TO
+SMITHEREENS!<NOD<FL+0484<EVE0305
 #0305
-<KEY<MSG
-Please locate the following materials 
-for the bomb:<NOD
-Charcoal,<NOD Jellyfish Juice,<NOD and Gum Base.<NOD<CLR
-Let us make the bomb once all the 
-materials have been amassed!<NOD<END
+<KEY<MSGI'LL NEED YOU TO COLLECT
+BOMB-MAKING MATERIALS.<NOD
+=CHARCOAL=,<NOD
+=JELLYFISH JUICE=,
+AND =GUM BASE=.<NOD<CLRI'LL MAKE YOUR BOMB AS SOON AS
+YOU BRING ME ALL THE MATERIALS!<NOD<END
 #0310
 <ITJ0008:0311<EVE0305
 #0311
 <ITJ0012:0312<EVE0305
 #0312
 <KEY<FL+0486<IT-0008<IT-0011<IT-0012
-<MSG
-Have you gathered all the materials?<NOD<CLR<GIT1012
-Oh, it's some Charcoal!<NOD
-<GIT1008And Jellyfish Juice!<NOD
-<GIT1011The Gum Base, too!<NOD<CLR
-I will commence making the bomb 
-immediately!<NOD<GIT0000<CLO
+<MSGHAVE YOU FOUND ALL THE MATERIALS
+YET?<NOD<CLR<GIT1012OOH!<NOD THE =CHARCOAL=!<NOD
+<GIT1008OOH!<NOD THE =JELLYFISH JUICE=!<NOD
+<GIT1011OOH!<NOD EVEN THE =GUM BASE=!<NOD<CLRTHEN LET US BEGIN!!<NOD<GIT0000<CLO
 <FAO0001<WAI0100<FAI0001
-<MSG
-It is complete!<NOD<GIT1013<IT+0013<FL+0221<CLR
-<CMU0010Obtained the Bomb.<WAI0160<NOD<RMU<CLR
-Now, go and blow up that door!<NOD<END
+<MSGIT IS FINISHED!<NOD<GIT1013<IT+0013<FL+0221<CLR
+<CMU0010Got the =Explosive=!<WAI0160<NOD<RMU<CLRGO ON!<NOD
+BLOW THAT DOOR UP!<NOD<END
 #0313
-<KEY<MSG
-Now, hurry and destroy that door!<NOD<END
+<KEY<MSGGO ON!<NOD
+HURRY AND BLOW THAT DOOR UP!<NOD<END
 #0314
-<KEY<MSG
-Please come and visit again...<NOD
-...Even if I can't serve you any tea.<NOD<END
+<KEY<MSGCOME AND VISIT AGAIN SOMETIME.<NOD
+I'D OFFER YOU SOME TEA, BUT...<NOD<END
 #0315
-<KEY<MSG
-Long time no see!<NOD<CLR
-I am very happy you decided to come
-and visit me.<NOD
-I get lonely here all by myself.<NOD
-... I have been thinking of booting up
-a spare robot and throwing a party.<NOD<CLR
-.....<NOD<CLR
-I apologize that I do not have any
-tea to serve you.<NOD<END
+<KEY<MSGHAVEN'T SEEN YOU IN A WHILE!<NOD<CLRIT'S GOOD TO SEE YOU.<NOD
+IT'S SO LONELY HERE WITH NO
+ONE TO TALK TO...<NOD
+I'VE BEEN THINKING PERHAPS I
+OUGHT TO ACTIVATE SOME SPARE
+ROBOTS, MAYBE THROW A PARTY...<NOD<CLR.....<NOD<CLR
+I'D OFFER YOU SOME TEA, BUT...<NOD<END

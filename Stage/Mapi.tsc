@@ -18,8 +18,7 @@
 <KEY<FLJ1564:0101<SOU0011<ANP0100:0000:0002
 <FAO0004<TRA0016:0094:0032:0002
 #0101
-<PRI<MSG
-It won't open!<NOD<END
+<PRI<MSGIt won't open!<NOD<END
 
 
 #0400
@@ -27,67 +26,52 @@ It won't open!<NOD<END
 <KEY<MYB0002<WAI0020
 <FLJ1563:0420
 <FLJ1562:0411
-<FLJ1561:0403<MSG
-You got some business with me?<YNJ0401<FLJ1044:0402<CLR
-Hmph, yeah right!<NOD<CLR
-You don't have any business with me!<NOD<END
+<FLJ1561:0403<MSGYou got some business with me?<YNJ0401<FLJ1044:0402<CLRHah!<NOD
+I doubt that.<NOD<END
 
 #0401
-<KEY<MSG
-Heh heh. 
-See you later.<NOD<END
+<KEY<MSGHeh-heh-heh. Bye, then.<NOD<END
 
 #0402
-<KEY<FL+1561<MSG
-Hm, amnesia?<NOD
-Oh, that's terrible.<NOD<EVE0403
+<KEY<FL+1561<MSGHm?<NOD Amnesia?<NOD
+How awful.<NOD<EVE0403
 #0403
-<KEY<MSG
-Do you want the Mushroom Badge?<YNJ0408<EVE0404<END
+<KEY<MSGWell, then. Do you want me to
+give you the Mushroom Badge?<YNJ0408<EVE0404<END
 
 #0404
-<KEY<MSG
-But you don't really need it then?<YNJ0405<EVE0408
+<KEY<MSGBut in reality, you don't
+really want it, right?<YNJ0405<EVE0408
 #0405
-<KEY<MSG
-Wait, you really do want it?<YNJ0409<EVE0406
+<KEY<MSGYou want it that much?<YNJ0409<EVE0406
 #0406
-<KEY<MSG
-You REALLY want it no matter what?<YNJ0409<EVE0407
+<KEY<MSGYou want it absolutely positively
+no matter what?<YNJ0409<EVE0407
 #0407
-<KEY<MSG
-Then you don't need it?<YNJ0410<EVE0409
+<KEY<MSGBut really you don't want
+it, right?<YNJ0410<EVE0409
 
 #0408
-<KEY<MSG
-Oh, I see then.<NOD<END
+<KEY<MSGReally? Okay.<NOD<END
 #0409
-<KEY<MSG
-You don't need it...<NOD<END
+<KEY<MSGYeah, who needs it...<NOD<END
 
 #0410
-<KEY<MSG
-Well then, I'll give it to you.<NOD<CLR<GIT1033<IT+0033<FL+1562<CLR
-<CMU0010Obtained the Mushroom Badge.<WAI0160<NOD<RMU<END
+<KEY<MSGFine, here you go!<NOD<CLR<GIT1033<IT+0033<FL+1562<CLR
+<CMU0010Got the =Mushroom Badge=.<WAI0160<NOD<RMU<END
 
 #0411
-<KEY<MSG
-WHAAAAAAAAAAAT!<NOD<END
+<KEY<MSGBzzzzzt.<NOD<END
 
 #0420
-<KEY<MSG
-Ack!<NOD
-Found me out!<NOD<CLR
-That's just a normal badge.<NOD<CLR
-.....<NOD<CLR
-Say what?!?<NOD
-You say you're going to eat me?!<NOD<CLR
-I'm a very, very valuable mushroom!
-And the only one in this cave, too!<NOD<CLR
-Snap!<NOD
-Don't think for one minute that I'll let
-you eat me without me putting up a fight!<NOD<CLR<CMU0004
-IT'S ON!!<NOD<CLO<FL+1564
+<KEY<MSGHwahaha!<NOD
+Found me out, eh?<NOD<CLRThat's nothing more than a
+silly badge!<NOD<CLR.....<NOD<CLRWhat?<NOD
+You want to eat me?!<NOD<CLRI'll have you know that I am a
+valuable, valuable mushroom like
+no other in all the caves!<NOD<CLRGrrrrrr!<NOD
+I'm not gonna just let you eat
+me up!<NOD<CLR<CMU0004Die!!<NOD<CLO<FL+1564
 <CNP0500:0313:0000<WAI0002
 <ANP0500:0100:0000<DNP0400
 <BSL0500<END
@@ -95,7 +79,6 @@ IT'S ON!!<NOD<CLO<FL+1564
 
 #0500
 <KEY<CMU0000<ANP0500:0500:0005<WAI0150
-<MSG
-I've... lost.<NOD<CLR<GIT1034<IT+0034<FL-1564<CLR<DNP0500
-<CMU0010Obtained Ma Pignon.<WAI0160<NOD<RMU<END
+<MSGYou win......<NOD<CLR<GIT1034<IT+0034<FL-1564<CLR<DNP0500
+<CMU0010Got the =Ma Pignon=!<WAI0160<NOD<RMU<END
 
