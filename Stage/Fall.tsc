@@ -24,16 +24,12 @@
 <FON0240:0016
 <WAI0160
 <MSG
-<CMU0010Kazuma catches you!<WAI0160<CLR<FAC1110
-Wow...<FAC1010<NOD<CLR<FAC1110
-I didn't think you were
-really going to do it.<FAC1010<NOD<CLR<FAC1110
-You destroyed the core!<FAC1010<NOD<CLR<FAC1110
-We probably won't be seeing
-the Doctor a second or third
-time thanks to you.<FAC1010<NOD<FAC1110
-Peace remains.<FAC1010<NOD<CLR<FAC1110
-Let's go home.<FAC1010<NOD<CLO
+<CMU0010Caught by Kazuma!<WAI0160<CLR<FAC1110Phew...<FAC1010<NOD<CLR<FAC1110I never thought you'd
+actually pull it off.<FAC1010<NOD<CLR<FAC1110Blowing up the core...<FAC1010<NOD<CLR<FAC1110Well, now the world ought
+to be free from any future
+incarnations of the Doctor.<FAC1010<NOD<FAC1110
+Peace has been preserved!<FAC1010<NOD<CLR<FAC1110
+Now, let's go home.<FAC1010<NOD<CLO
 <KEY<FAO0004<HMC
 <ITJ0024:0101
 <ACH0050<TRA0000:0100:0004:0015
@@ -46,66 +42,63 @@ Let's go home.<FAC1010<NOD<CLO
 <CNP0230:0356:0002
 <DNP0220<WAI0200
 <FAI0001
-<MSG<FAC0105<FL+2000<FL+1460
-Close!<FAC0005<NOD<CLR<FAC0105
-Such a narrow escape.<FAC0005<NOD<CLR<FAC1119
-I thought I was scrap
-metal this time.<FAC1019<NOD<FAC1119
-Looks like we owe you yet
-another one.<FAC1019<NOD<CLO<FAC0000<WAI0050
-<MSG<FAC0105
-There's no need for that.<FAC0005<NOD<FAC0105
-I did what Misery asked.<FAC0005<NOD<CLR<FAC1125
-Misery? 
-As in that witch?<FAC1025<NOD<CLR
-<FAC0105Yep!<FAC0005<NOD<CLR<FAC1125
-Doesn't she hate us?<FAC1025<NOD<FAC1125
-Wait, don't YOU hate us?<FAC1025<NOD<CLR<FAC0105
-You two defeated Ballos.<FAC0005<NOD<CLR<FAC0105
-Our curse was lifted thanks
-to you.<FAC0005<NOD<FAC0105
-Misery and I no longer have to
-listen to orders from anyone.<FAC0005<NOD<CLR<FAC1119
-I thought you were a bad guy,
-but it was just because of
-the Demon Crown?<FAC1019<NOD<CLR<FAC0105
-We asked for it...<FAC0005<NOD<FAC0105
-You have to remember,
-it was Misery who had Ballos
-make the crown.<FAC0005<NOD<CLR<FAC1125
-Eh?
-Really?<FAC1025<NOD<FAC1125
-I didn't know that.<FAC1025<NOD<CLR<FAC0105
-Yep!<FAC0005<NOD<CLO<FAC0000
+<MSG<FAC0105<FL+2000<FL+1460Phew!<FAC0005<NOD<CLR<FAC0105That...was close.<FAC0005<NOD<CLR<FAC1119I thought I was scrap
+metal this time for
+sure...<FAC1019<NOD<FAC1119
+Looks like we owe
+you another one.<FAC1019<NOD<CLO<FAC0000<WAI0050
+<MSG<FAC0105Nah, don't thank me.<FAC0005<NOD<FAC0105
+I was just doing what
+Misery asked me to do.<FAC0005<NOD<CLR<FAC1125Misery? You mean,
+that witch?<FAC1025<NOD<CLR
+<FAC0105That's right.<FAC0005<NOD<CLR<FAC1125I thought she hated
+our guts.<FAC1025<NOD<FAC1125
+Heck, I thought YOU
+hated our guts...<FAC1025<NOD<CLR<FAC0105You beat Ballos, right?<FAC0005<NOD<CLR<FAC0105When you did that,
+it lifted our curse.<FAC0005<NOD<FAC0105
+Now neither of us has
+to take orders from
+anyone!<FAC0005<NOD<CLR<FAC1119I thought you guys were
+just jerks,<FAC1019<NOD<FAC0119
+but I guess it was all
+the Crown's fault!<FAC1019<NOD<CLR<FAC0105Well, you reap what
+you sow.<FAC0005<NOD<FAC0105
+After all, Misery's the
+one who had him make the
+crown in the first place.<FAC0005<NOD<CLR<FAC1125
+Huh.
+You don't say.<FAC1025<NOD<CLR<FAC0105
+I do say.<FAC0005<NOD<CLO<FAC0000
 <WAI0150
-<MSG<FAC0105
-And now...<FAC0005<NOD<CLR
-<FAC1125Now?<FAC1025<NOD<CLR<FAC0105
-What are you gonna do now?<FAC0005<NOD<FAC0105
-I can take you anywhere!<FAC0005<NOD<CLR<FAC1119
-Well, since you asked...<FAC1019<NOD<CLR<FAC1119
-Our mission's complete so...
-I want to live somewhere
-calm with a nice view.<FAC1019<NOD<CLO<FAC0000
-<WAI0100<MSG<FAC0105
-Pardon me, but... um...<FAC0005<NOD<CLR
-<FAC1125Yes?<FAC1025<NOD<CLR<FAC0105
-...Can I go with?<FAC0005<NOD<CLR
+<MSG<FAC0105So!<FAC0005<NOD<CLR
+<FAC1125So?<FAC1025<NOD<CLR<FAC0105So what are you going
+to do now?<FAC0005<NOD<FAC0105
+I can take you anywhere
+you like.<FAC0005<NOD<CLR<FAC1119Hmm, you're right...<FAC1019<NOD<CLR<FAC1119Our mission is over,
+and now I just want to
+live out my days<FAC1019<NOD<FAC0119
+somewhere where I can
+relax and enjoy a
+beautiful view...<FAC1019<NOD<CLO<FAC0000
+<WAI0100<MSG<FAC0105Uh, you know...<FAC0005<NOD<CLR
+<FAC1125Hm?<FAC1025<NOD<CLR<FAC0105...Would it be all right
+if I joined you there?<FAC0005<NOD<CLR
 <FAC1119Sure!<FAC1019<NOD<FAC1119
-All three of us, we can live
-together for sure!<FAC1019<NOD<CLR
-<FAC0114Really?!?<FAC0014<NOD<CLR<FAC1119
-You can even pick the spot
-where we all live!<FAC1019<NOD<FAC1119
-But take us someplace nice.<FAC1019<NOD<CLR
-<FAC0114Gotcha!<FAC0014<NOD<CLR<FAC0114
-All right,
+Let's live the three
+of us together!<FAC1019<NOD<CLR
+<FAC0114Really?!?<FAC0014<NOD<CLR<FAC1119I'll let you pick the
+spot.<FAC1019<NOD<FAC1119
+Just find us a good
+place, okay?<FAC1019<NOD<CLR
+<FAC0114You got it!!<FAC0014<NOD<CLR<FAC0114
+All right then,
 <ANP0230:0020:0002h<WAI0010a<WAI0010n<WAI0010g<WAI0010 <WAI0010o<WAI0010n<WAI0010 <WAI0010t<WAI0010i<WAI0010g<WAI0010h<WAI0010t<WAI0010!!<FAC0014<NOD<CLO<FAC0000
 <KEY<FAO0004<HMC<ITJ0032:0121<TRA0000:0100:0004:0015
 
 #0121
 <KEY<WAI0100<MSG<GIT1032
-Aren't we forgetting something?<NOD<TRA0000:0100:0004:0015
+...Aren't you forgetting
+something?<NOD<TRA0000:0100:0004:0015
 
 #0200
 #0201
