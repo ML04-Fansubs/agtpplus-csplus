@@ -21,38 +21,30 @@
 <KEY<FAO0002<TRA0056:0092:0008:0049
 
 #0200
-<KEY<MSG
-The destination is unknown.<NOD
+<KEY<MSGThe destination is unknown.<NOD
 Do you still wish to teleport?<YNJ0000<CLO<FL+0524
 <CNP0300:0111:0000<HMC<WAI0060<ANP0200:0001:0000
 <WAI0100<FAO0004<TRA0018:0099:0018:0010
 
 
 #0400
-<PRI<MSG
-Oh, you're a killer robot?<NOD<CLR
-You've come to kill us?<NOD<END
+<PRI<MSGWhat, are you a killer robot?<NOD<CLRYou here to kill us?<NOD<END
 #0401
-<PRI<MSG
-Let us outta here!<NOD<END
+<PRI<MSGLemme out!<NOD<END
 #0402
-<PRI<MSG
-The Doctor can eat it!<NOD<END
+<PRI<MSGDoctor Dumb can go screw himself!<NOD<END
 
 #0403
-<PRI<MSG
-The Mimiga working the farm are being
-tricked by the Doctor!<NOD<CLR
-He's planning on making us fight the
-killer robots from the surface!<NOD<END
+<PRI<MSGThe Mimigas out there in the
+fields are being lied to!<NOD<CLRThe Doctor's gonna make us fight
+the robots!<NOD<END
 #0404
-<PRI<MSG
-Do you know a Sakamoto person?<NOD
-She should be hiding in the 
-Plantation, somewhere...<NOD<END
+<PRI<MSGDo you know a "Sakamoto"?<NOD
+She's supposed to be hiding
+somewhere out in the plantation...<NOD<END
 #0405
-<PRI<MSG
-There were a few humans in here as well,
-but I haven't seen them recently...<NOD
-I wonder if they escaped safely.<NOD<END
+<PRI<MSGThere used to be a couple humans
+in here too, but I haven't seen
+them around...<NOD
+Wonder if they got away.<NOD<END
 

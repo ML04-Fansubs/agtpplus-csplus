@@ -17,7 +17,7 @@
 #0200
 <KEY<FL+1000<FL+1025<FL+1038<MYD0002<WAI0050
 <ANP0400:0010:0000<MSG
-Ooouuwaah!<NOD<CLO
+Uwah!<NOD<CLO
 <ANP0400:0020:0000<WAI0050<END
 #0400
 <KEY
@@ -27,60 +27,52 @@ Ooouuwaah!<NOD<CLO
 <FLJ1001:0401<FL+1001<FL+1038
 <2MV0000
 <ANP0400:0010:0000
-<MSG
-EEEEK!<MYB0002<NOD<CLR
-Don't kill me!<NOD
-I'm a human!
-I was turned into a Mimiga by magic!<NOD<CLR
-Eh?<NOD<CLR
-.....<NOD<CLR<ANP0400:0000:0000<FAC0128
-You mean, you're not a
-killer robot?<FAC0028<NOD<FAC0128
-You startled me pretty badly
-by coming in so suddenly.<FAC0028<NOD<CLR<FAC0128
-Are you here to save us?<FAC0028<NOD<END
+<MSGEyaahh!<MYB0002<NOD<CLRDon't kill me!<NOD
+I'm a human! I just got
+magically turned into
+a Mimiga! I'm human!<NOD<CLR
+Huh?<NOD<CLR
+.....<NOD<CLR<ANP0400:0000:0000<FAC0128What's this?
+You're not one of those
+killer robots?<FAC0028<NOD<FAC0128
+Well, you scared the
+pants off me, jumping
+out like that!<FAC0028<NOD<CLR<FAC0128You wouldn't be that
+savior, would you?<FAC0028<NOD<END
 #0401
 <KEY<FL+1002
-<MSG<FAC0128
-I'm Itoh.
-I'm one of the humans who
-came to study the island.<FAC0028<NOD<FAC0128
-Misery gave me this lovely
-new Mimiga appearance.<FAC0328<NOD<FAC0128
-I could probably run away,
-but take a look at me and
-how I am now.<FAC0028<NOD<CLR<FAC0128
-I'm stuck!<FAC0028<NOD<CLR<FAC0128
-You must have climbed all the
-way up the wall from outside.<FAC0028<NOD<FAC0128
-I'm quite a capable engineer,
-but I also have an innate
-fear of heights.<FAC0028<NOD<CLR<FAC0128
-Uuugh...<FAC0028<NOD<CLR<FAC0128
-I shouldn't have come to
-such a place like this
-floating island.<FAC0028<NOD<END
+<MSG<FAC0128I'm Itoh, one of the
+humans who came to this
+island to do research.<FAC0028<NOD<FAC0128
+That witch Misery turned
+me into this...<FAC0328<NOD<FAC0128
+I managed to get away,
+but...just look at me.<FAC0028<NOD<CLR<FAC0128And now I'm stuck here!<FAC0028<NOD<CLR<FAC0128You climbed up from the
+outside, didn't you.<FAC0028<NOD<FAC0128
+I'm an engineer of
+considerable talent,<FAC0028<NOD<FAC0128
+but I'm deathly afraid
+of heights...<FAC0028<NOD<CLR<FAC0128Oh, woe, woe is me...<FAC0028<NOD<CLR<FAC0128I never should've come
+to this island in the
+first place.<FAC0028<NOD<END
+
 #0402
-<KEY<MSG<FAC0128
-You don't need anything from
-this miserable man who
-happens to be stuck here...<FAC0028<NOD<END
+<KEY<MSG<FAC0128No, no, surely you have
+no use for such a pathetic,
+stranded little man.<FAC0028<NOD<END
+
+
 #0403
-<KEY<MSG<FL+1003<FAC0128
-Itoh?<FAC0028<NOD<FAC0128
-That's me.<FAC0028<NOD<CLR<FAC0128
-What?<FAC0028<NOD<FAC0128
-Sakamoto is making a rocket?<FAC0028<NOD<CLR<FAC0128
-I had no idea she was still
-alive and well...<FAC0028<NOD<FAC0128
-She's really strong.<FAC0028<NOD<FAC0128
-Compared to her, I'm...<FAC0028<NOD<CLR<FAC0128
-All right.<FAC0028<NOD<FAC0128
+<KEY<MSG<FL+1003<FAC0128Itoh?<FAC0028<NOD<FAC0128Yes, that's me.<FAC0028<NOD<CLR<FAC0128What's that?<FAC0028<NOD<FAC0128
+Sakamoto's working on
+a rocket?<FAC0028<NOD<CLR<FAC0128So she's still alive...<FAC0028<NOD<FAC0128
+A fierce one, she is.<NOD
+Nothing like me, that's
+for sure...<FAC0028<NOD<CLR<FAC0128All right, then.<FAC0028<NOD<FAC0128
 Take this.<FAC0028<NOD<FAC0000<GIT1027<IT+0027<CLR
-<CMU0010Obtained the Controller.<WAI0160<NOD<RMU
-<CLR<FAC0128
-I think, perhaps, that this is
-what Sakamoto needs.<FAC0028<NOD<GIT0000<EVE0404
+<CMU0010Got the =Controller=.<WAI0160<NOD<RMU
+<CLR<FAC0128I think that's what
+she's after.<FAC0028<NOD<GIT0000<EVE0404
 #0404
-<KEY<MSG<FAC0128
-Say hello to her for me.<FAC0028<NOD<END
+<KEY<MSG<FAC0128Give Ms. Sakamoto my
+regards.<FAC0028<NOD<END
