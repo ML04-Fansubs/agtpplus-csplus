@@ -18,52 +18,42 @@
 
 
 #0200
-<PRI<MSG
-It was ages ago...<NOD
-A witch lived alone in solitude here on
-this island.<NOD
-That witch would ultimately use her
-magic to create this labyrinth and
-confine us Gaudi within.<NOD<END
+<PRI<MSGLong, long ago, there lived a
+witch on this island.<NOD
+She's the one who constructed
+this labyrinth, in order to
+keep us Gaudis penned up.<NOD<END
 #0210
-<PRI<MSG
-A way out of the labyrinth does exist,
-However...the path leading to the
-exit is obstructed by a single boulder.<NOD<CLR
-I'm not even sure if the exit can be
-reached after moving the massive
-piece of rock...<NOD<END
+<PRI<MSGThere is an exit to this maze.
+But the path to it is blocked
+by a huge boulder.<NOD<CLRAnd moving the boulder would
+be just the beginning of your
+trials...<NOD<END
 #0220
-<PRI<FLJ1020:0221<MSG
-Gaah... I want to eat Mimiga...<NOD<CLR
-What's that scent?<NOD<CLR
-I faintly smell Mimiga on you.<NOD<END
+<PRI<FLJ1020:0221<MSGAah... I'm SO hungry for
+Mimiga flesh...<NOD<CLR*sniff sniff*<NOD<CLR
+YOU smell a bit like Mimiga.<NOD<END
 #0221
-<PRI<MSG
-Ha ha ha...<NOD<CLR
-You're a funny one.<NOD<END
+<PRI<MSGHa-ha-hah...<NOD<CLRYou're funny.<NOD<END
 #0230
-<PRI<MSG
-Ever seen the outside of this island?<NOD<CLR
-It's floating high up in the sky.<NOD
-How the island happens to float...<NOD
-The secret to that is hidden deep
-inside this labyrinth.<NOD<END
+<PRI<MSGHave you ever seen the outside of
+this island?<NOD<CLRThis island is floating high in
+the skies.<NOD
+As to how it manages to float...<NOD
+That secret lies within this
+maze.<NOD<END
 #0240
 <PRI<FLJ0720:0241
-<MSG
-That teleporter there--<NOD
-it was working before, hmm.<NOD
-Well, even when it was working
-its destination point was
-someplace in the labyrinth...<NOD<END
+<MSGThat teleporter over there
+used to be working until
+a little while ago.<NOD
+Of course, it just led
+elsewhere in the labyrinth...<NOD<END
 #0241
-<MSG
-The teleporter is finally functioning
-properly again.<NOD<CLR
-Anyway, big deal..<NOD
-Its final destination is midway through
-the labyrinth...<NOD<END
+<MSGThe teleporter seems to be
+working now.<NOD<CLROf course, it just leads to
+somewhere else in the labyrinth,
+doesn't it?<NOD<END
 
 
 #0300
@@ -75,60 +65,46 @@ the labyrinth...<NOD<END
 <MYD0000<DNP0301<SMC<END
 #0310
 <KEY<FLJ0720:0311
-<KEY<MSG
-A teleporter.<NOD<CLR
-It's not receiving any power.<NOD<END
+<KEY<MSGA teleporter.<NOD<CLRIt has no power.<NOD<END
 #0311
 <CNP0300:0111:0002<HMC<WAI0060<ANP0310:0001:0000
 <WAI0100<FAO0004<TRA0045:0301:0002:0053
 
 
 #0400
-<KEY<FLJ0721:0410<MSG
-Hi.<NOD<CLR
-This is the Labyrinth shop!<NOD
-Unfortunately, a burglar broke in
-recently and took everything.<NOD
-So I don't have anything to sell you.<NOD
-Sorry for the inconvenience.<NOD<CLO<AMJ0002:0401<AMJ0013:0404<EVE0402
+<KEY<FLJ0721:0410<MSGHey there.<NOD<CLRThis is the Labyrinth Shop!<NOD
+But, sad to say, we got
+burgled a while back,<NOD
+and there's nothing to sell
+right now.<NOD
+Sorry 'bout that...<NOD<CLO<AMJ0002:0401<AMJ0013:0404<EVE0402
 #0401
-<KEY<MSG
-What's that?<NOD<CLR
-You've got something nice there.<NOD<CLR
-That's a Polar Star and a Fireball!<NOD<CLR
-May I have a look?<YNJ0403<CLO
+<KEY<MSGHm?<NOD<CLRHey, you've got something
+pretty spiffy there.<NOD<CLRA Polar Star and a Fireball,
+unless I miss my guess.<NOD<CLRCan I take a quick look at them?<YNJ0403<CLO
 <AM-0003
-<WAI0020<MSG<GIT0002
-You give the Polar Star.<NOD
-<GIT0003You give the Fireball.<NOD<GIT0000<CLR
-<SOU0044Hmph!!!<NOD<CLR<FL+0721<GIT0001<CLR
-<TAM0002:0001:0000<CMU0010Snake is completed!<WAI0160<NOD<RMU<END
+<WAI0020<MSG<GIT0002Handed over the Polar Star.<NOD
+<GIT0003Handed over the Fireball.<NOD<GIT0000<CLR
+<SOU0044Hoho!<NOD<CLR<FL+0721<GIT0001<CLR
+<TAM0002:0001:0000<CMU0010=Snake= complete!<WAI0160<NOD<RMU<END
 #0402
-<KEY<FL+0721<MSG
-Ah...<NOD<CLR
-Look, I'll give you this.<NOD<CLR<GIT1020<CLR
-<CMU0010<IT+0020<EQ+0008Obtained the Turbocharge.<WAI0160<NOD<RMU<GIT0000<CLR
-It's free, no charge.<NOD
-You don't have any money anyway, right?<NOD<END
+<KEY<FL+0721<MSG*sigh*<NOD<CLRHere. How about this?<NOD<CLR<GIT1020<CLR
+<CMU0010<IT+0020<EQ+0008Got the =Turbocharge=!<WAI0160<NOD<RMU<GIT0000<CLRYou can have it for free.<NOD
+I don't see any money on you,
+anyway.<NOD<END
 #0403
-<KEY<MSG<CLR
-You're gonna regret it later!<NOD<END
+<KEY<MSG<CLRYou're missing out!<NOD<END
 #0404
-<KEY<FL+0721<MSG
-Ah...<NOD<CLR
-Look, I'll give you this.<NOD<CLR<GIT1038<CLR
-<CMU0010<IT+0038Obtained the Whimsical Star.<WAI0160<EQ+0128<FL+0722<NOD<RMU<GIT0000<CLR
-Well now, it's more like a decoration.<NOD
-That's about all I can offer since
-you're already in possession of an
-ultimate weapon.<NOD<END
+<KEY<FL+0721<MSG*sigh*<NOD<CLRHere. How about this?<NOD<CLR<GIT1038<CLR
+<CMU0010<IT+0038Got the =Whimsical Star=!<WAI0160<EQ+0128<FL+0722<NOD<RMU<GIT0000<CLRJust a decoration, I'm afraid,<NOD
+but you've already got the
+strongest weapon, so what
+else can I do?<NOD<END
 #0410
-<KEY<MSG
-A witch named Jenka locked us in here.<NOD<CLR
-It's not like she hates us.<NOD
-The reason she put us in the
-Labyrinth is to protect some kind
-of secret kept in here. <NOD<CLR
-But we Gaudi have bad memories so we
-forget what we're protecting.
-Sorry!<NOD<END 
+<KEY<MSGThe one who sealed us up in here
+is a witch named Jenka.<NOD<CLR...But it's not because she hates
+us or anything.<NOD
+We're here in this labyrinth in
+order to protect something.<NOD<CLR...I don't really remember what
+it is anymore, but that's all
+right!<NOD<END 

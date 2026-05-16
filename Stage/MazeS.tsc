@@ -15,56 +15,48 @@
 <KEY<FLJ0763:0101
 <SOU0011<ANP0100:0000:0002<FAO0000<MYD0000<TRA0043:0090:0019:0013
 #0101
-<PRI<MSG
-It won't open!<NOD<END
+<PRI<MSGIt won't open!<NOD<END
 #0110
 <FLJ0764:0111<END
 #0111
 <KEY<FAO0004<MYD0002<TRA0045:0092:0002:0005
 #0200
-<PRI<FLJ0201:0201<MSG
-The chest is under a curse that
-is preventing it from being opened...<NOD<END
+<PRI<FLJ0201:0201<MSGA charm has been placed on it.
+It won't open...<NOD<END
 #0201
 <FLJ0766:0001<FL+0766<FL-0765<FL+0202
 <SOU0022<CNP0200:0021:0000
-<MSG
-Opened the treasure chest.<NOD<CLR<TAM0005:0010:0000
-<CMU0010<GIT0010Missiles are powered up!<WAI0160<NOD<RMU<END
+<MSGOpened the treasure chest.<NOD<CLR<TAM0005:0010:0000
+<CMU0010<GIT0010Your Missiles have been powered up!<WAI0160<NOD<RMU<END
 #0300
 <KEY
 <FLJ0764:0303
 <FLJ0762:0302
 <FLJ0761:0301
-<FL+0761<MSG<FAC0119
-You made it!<FAC0019<NOD<FAC0119
-I've been waiting for you to
-get here all this time.<FAC0019<NOD<CLR<FAC0119
-If this rock is moved we can
-continue onwards to the
-labyrinth exit.<FAC0019<NOD<CLR<FAC0119
-Rumor has it that there's a
-creature's lair up ahead.<FAC0019<NOD<FAC0119
-Be prepared for anything.<FAC0019<NOD<CLR<FAC0119
-Well then, let's move this
-boulder to the side.<FAC0019<NOD<FAC0119
-Hold that end and then...<FAC0019<NOD<CLO
+<FL+0761<MSG<FAC0119Aha!<FAC0019<NOD<FAC0119
+I was wondering when
+you'd show up.<FAC0019<NOD<CLR<FAC0119If we can just get this
+big rock out of the way,
+we can get to the exit.<FAC0019<NOD<CLR<FAC0119Rumor has it, though,
+that a monster nest lies
+just beyond...<FAC0019<NOD<FAC0119
+So ya better be ready
+for that.<FAC0019<NOD<CLR<FAC0119Anyway, let's get this
+thing out of the way.<FAC0019<NOD<FAC0119
+You hold that side.<FAC0019<NOD<CLO
 <ANP0300:0020:0000<END
 #0301
 <KEY<ANP0300:0000:0000
-<MSG<FAC0119
-What's wrong?<FAC0019<NOD<FAC0119
-You're not chickening out,
+<MSG<FAC0119What's wrong?<FAC0019<NOD<FAC0119
+You're not scared,
 are you?<FAC0019<NOD<CLR<FAC0119
-Of course not, right!<FAC0019<NOD<FAC0119
-Now, hold that end already.<FAC0019<NOD<ANP0300:0020:0000<END
+Go on, grab that side.<FAC0019<NOD<ANP0300:0020:0000<END
 #0302
 <PRI<MSG
-She's out.<NOD<END
+She's out cold.<NOD<END
 #0303
-<PRI<MSG<FAC0119
-NOW!<FAC0019<NOD<CLR<FAC0119
-C'mon, it's onto the lair!<FAC0019<NOD<END
+<PRI<MSG<FAC0119Let's go!<FAC0019<NOD<CLR<FAC0119There's a whole nest of
+monsters waiting for us!!<FAC0019<NOD<END
 #0310
 <KEY<CNP0310:0012:0004:<ANP0310:0080:0005<SMC
 <CMU0015<MSG
@@ -81,9 +73,7 @@ Defeated Balrog!<WAI0140<NOD<CLO<FAC0000
 <KEY
 <MNP0320:0003:0000:0000
 <MYD0002<MYD0003
-<MSG<FAC0119
-So? 
-Let's go!<FAC0019<NOD<CLO<FAC0000
+<MSG<FAC0119Ready? Push!<FAC0019<NOD<CLO<FAC0000
 <ANP0300:0020:0000<WAI0050<MSG
 Oomph!<NOD<CLO<FAC0000
 <CNP0510:0334:0000
@@ -91,44 +81,36 @@ Oomph!<NOD<CLO<FAC0000
 <MSG<FAC0020
 .....<NOD<CLO<FAC0000
 <ANP0300:0000:0000<WAI0050<MYD0002
-<MSG<FAC0125
-It won't move at all.<FAC0025<NOD<FAC0125
-Maybe it's impossible to move
-with only the two of us...<FAC0025<NOD<FAC0000<CLO
+<MSG<FAC0125It hasn't moved one bit.<FAC0025<NOD<FAC0125
+I'm not sure the
+two of us are strong
+enough...<FAC0025<NOD<FAC0000<CLO
 <WAI0050
-<MSG
-Oh Yeaaah!!<CMU0000<NOD<CLO
+<MSGHuzzah!<CMU0000<NOD<CLO
 <CNP0310:0009:0002<WAI0100
 <CNP0310:0012:0002
 <ANP0310:0030:0002<CMU0011
 <MYD0000
-<MSG<FAC0119
-Hey, it's you!<FAC0019<NOD<CLR<FAC0114
-Heh heh.<FAC0014<NOD<CLR<FAC0114
-So you ARE alive!<FAC0014<NOD<CLR<FAC0114
-And on top of that, you two
-are trying to escape from
-the Labyrinth!<FAC0014<NOD<CLR<FAC0114
-Shouldn't you be resting
-instead of trying to make
-an escape, eh?<FAC0014<NOD<CLR<FAC0114
-Remember that you can't
-defy the master any more
-than I can.<FAC0014<NOD<CLR<FAC0114
-Fine then!<FAC0014<NOD<FAC0114
-I'm ending this!<FAC0014<NOD<CLR<FAC0114
-Just stay here with the rest
-of the scrap metal.<FAC0014<NOD<CLR<FAC0119
-Oh, this is perfect!<FAC0019<NOD<FAC0119
-You can grab the middle...<FAC0019<NOD<FAC0000<CLO<CMU0000
+<MSG<FAC0119You!<FAC0019<NOD<CLR<FAC0114Hohoho!<FAC0014<NOD<CLR<FAC0114You're alive, I see!<FAC0014<NOD<CLR<FAC0114Not only that, you're
+trying to get out of
+the Labyrinth!<FAC0014<NOD<CLR<FAC0114Shouldn't you be staying
+put like good little
+robots?<FAC0014<NOD<CLR<FAC0114You can't stand up to
+my master any more than
+I can, you know.<FAC0014<NOD<CLR<FAC0114Fine, then!<FAC0014<NOD<FAC0114
+I'll just put a stop
+to this!<FAC0014<NOD<CLR<FAC0114Hope you don't mind
+being iron scraps!<FAC0014<NOD<CLR<FAC0119Just who we were looking
+for!<FAC0019<NOD<FAC0119
+Take the middle,
+will you?<FAC0019<NOD<FAC0000<CLO<CMU0000
 <WAI0100
 <ANP0310:0060:0002<WAI0048
 <ANP0310:0050:0002<WAI0020
 <ANP0300:0020:0000<WAI0020
-<MYD0002<MYD0003<MSG<FAC0119
-Ready!?!<FAC0019<NOD<ANP0310:0080:0000<MYB0002<ANP0300:0030:0000<SOU0072<CLR<FAC0123
-ARE YOU TWO LISTENING TO
-ME AT ALL!?!?!?!?<FAC0023<NOD
+<MYD0002<MYD0003<MSG<FAC0119Ready?
+One, two...<FAC0019<NOD<ANP0310:0080:0000<MYB0002<ANP0300:0030:0000<SOU0072<CLR<FAC0123ARE YOU EVEN LISTENING
+TO ME?!<FAC0023<NOD
 <ANP0310:0000:0000<CMU0004<CNP0310:0169:0000<BSL0310
 <FL+0762<FL+0763
 <END
@@ -139,22 +121,20 @@ ME AT ALL!?!?!?!?<FAC0023<NOD
 <KEY
 <FLJ0762:0502
 <FLJ0761:0501
-<MSG
-It's a giant, heavy boulder.<NOD<CLR
-There's a breeze coming in from
-behind the massive rock.<NOD
-Maybe impossible for one person to
-move it all alone.<NOD<END
+<MSGIt's a massive, heavy rock.<NOD
+From behind it, you can feel
+a wind blowing.<NOD
+It looks like it would take
+at least two people to move
+it, though.<NOD<END
 #0501
 <KEY<WAI0010
 <ANP0300:0000:0000
-<MSG<FAC0120
-Can't you grab hold any
-closer to the end?<FAC0020<NOD<CLO
+<MSG<FAC0120Could you hold it
+more toward the end?<FAC0020<NOD<CLO
 <ANP0300:0020:0000<END
 #0502
-<PRI<MSG
-It's a giant, heavy boulder.<NOD<END
+<PRI<MSGIt's a massive, heavy rock.<NOD<END
 #0510
 #0511
 #0600
@@ -163,31 +143,26 @@ It's a giant, heavy boulder.<NOD<END
 <SMC<CMU0008<CNP0330:0012:0002<ANP0300:0000:0002
 <MNP0320:0003:0000:0000
 <FAI0004
-<MSG<FAC0105
-Defeated again...<FAC0005<NOD<CLR<FAC0105
-I'll move the rock for you.<FAC0005<NOD<FAC0105
-But in return...<FAC0005<NOD<ANP0330:0000:0000<CLR<FAC0105
-Keep the fact that I helped
-move it for you a secret.<FAC0005<NOD<CLR<FAC1119
-Don't you worry!<FAC1019<NOD<FAC0000<CLO
+<MSG<FAC0105You win...<FAC0005<NOD<CLR<FAC0105I'll move the rock
+for you.<FAC0005<NOD<FAC0105
+But remember...<FAC0005<NOD<ANP0330:0000:0000<CLR<FAC0105Don't tell ANYONE
+that I helped you.<FAC0005<NOD<CLR<FAC1119Your secret's safe
+with us!<FAC1019<NOD<FAC0000<CLO
 <ANP0330:0060:0000<WAI0040
 <ANP0330:0050:0002<WAI0020
 <MYD0003<ANP0300:0020:0000
-<MSG<FAC0119
-Here goes!<FAC0019<NOD<CLO<FAC0000
+<MSG<FAC0119Ready? Push!<FAC0019<NOD<CLO<FAC0000
 <ANP0500:0010:0000<WAI0100
 <ANP0330:0080:0002
 <ANP0300:0000:0002
 <ANP0500:0020:0000<MYD0002<MSG
-<FAC0123NNNNgg!!!<FAC0023<WAI0050<CLO<FAC0000
+<FAC0123Gaaaahhhh!!!<FAC0023<WAI0050<CLO<FAC0000
 <ANP0330:0000:0002
-<WAI0100<MSG<FAC0105
-Got it?<FAC0005<ANP0300:0000:0000<NOD<FAC0105
-Me helping you guys.
-IT'S OUR LITTLE SECRET!<FAC0005<NOD<CLR<FAC0119
-Right!<FAC0019<NOD<CLO<FAC0000<ANP0330:0010:0000
+<WAI0100<MSG<FAC0105Now, remember.<FAC0005<ANP0300:0000:0000<NOD<FAC0105
+Don't tell a soul
+that I helped you.<FAC0005<NOD<CLR<FAC0119We won't!<FAC0019<NOD<CLO<FAC0000<ANP0330:0010:0000
 <WAI0160<CNP0200:0015:0002<WAI0040
-<MSG<FAC0119
-He might actually be one of
-the good guys.<FAC0019<NOD<CLO
+<MSG<FAC0119I don't think he's
+really that bad of a
+guy.<FAC0019<NOD<CLO
 <FL+0781<FL+0765<CNP0016:0016:0002<END
