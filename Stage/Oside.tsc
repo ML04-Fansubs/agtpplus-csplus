@@ -20,19 +20,21 @@
 #0131
 <KEY<CMU0000<SOU0011<ANP0130:0000:0002
 <GIT1032<IT-0032<FL+1370<MSG
-I'm home!<NOD<CLO
+I'm hooome!<NOD<CLO
 <ACH0079
 <FAO0000<TRA0069:0090:0018:0008
+
 #0140
 <KEY<FAO0000<MYD0000<TRA0094:0090:0017:0007
 #0200
 <PRI<MSG
 A sign?<NOD<END
+
 #0400
-<KEY<FLJ0960:0401<MSG<FAC0110
-If you're looking for the 
-core then you need to
-really hurry it up.<FAC0010<NOD<END
+<KEY<FLJ0960:0401<MSG<FAC0110If you're going to
+look for the core,
+you'd best hurry.<FAC0010<NOD<END
+
 #0401
 <2MV0121
 <KEY<CLO<FON0410:0016<WAI0050
@@ -50,33 +52,29 @@ Get <MYD0000on.<FAC0010<NOD<FAC0000<CLO
 Hold on tight.<FAC1010<NOD<CLO<FAC0000
 <ANP0410:0020:0002<WAI0250
 <ANP0410:0010:0002<WAI0200
-<MSG
-And that was how you and Kazuma
-safely escaped from the island.<WAI0200<CLR
-Soon after, the Doctor would use the
-island as his flying fortress and
-strike at the surface.<WAI0200<CLR
-Were the countries of the surface
+<MSGAnd so was your escape from
+the island successful.<WAI0200<CLRBefore long, the Doctor began
+his attack on the earth, using
+the floating island as a base.<WAI0200<CLRWere the countries of the earth
 able to withstand the Doctor's
-relentless attacks?<WAI0200<CLR<FAO0002
-That doesn't really matter...<WAI0200<CLR
-After escaping, you and Kazuma live a
-humble life, hidden deep within the
-safe confines of mountains...<WAI0200<CLR
-...and out of the Doctor's reach.<WAI0200<CLR<CMU0026
+assault?<WAI0200<CLR<FAO0002Either way, it made no
+difference to you.<WAI0200<CLRTogether, deep in the heart
+of the mountains, far from
+the Doctor's reach,<WAI0200<CLRyou and Kazuma quietly lived
+out the rest of your days...<WAI0200<CLR<CMU0026
 <ACH0049
-<TUR                              End? <WAI9999
+<TUR                        - The End -<WAI9999
 <END
 #0410
-<KEY<MSG
-Grrrrrr...<NOD<END
+<KEY<MSGGrrrrrr...<NOD<END
 #0420
 #0421
 #0600
-<KEY<MSG
-Thanks for helping debut this game!<NOD
-I have only made up this much so far.<NOD
+<KEY<MSGThanks for helping with the
+debugging.<NOD
+This is as far as the game goes
+for now.<NOD
 I'm thinking I'll make this next
-stage ahead the last one.<NOD
-With two more months we'll see
-how far I can get...<NOD<END
+stage the last one.<NOD
+Wonder how far I can get in
+just two months...<NOD<END

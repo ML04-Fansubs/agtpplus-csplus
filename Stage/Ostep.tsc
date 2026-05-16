@@ -26,13 +26,10 @@
 
 #0900
 <DNP0900
-<KEY<MYD0002<MSG
-Please kill my master.<NOD
-Doing so will liberate Misery from her
-eternal curse.<NOD<CLR
-This is the only way that a recurrence
-of the tragedy can be stopped.<NOD<CLR
-My master's name is Ballos.<NOD<CLR
-He is a man who cannot die...
-His magic is beyond any control.<NOD<ANP0201:0010:0000<FL+1620<END
+<KEY<MYD0002<MSGPlease kill my master.<NOD
+That is the only way Misery
+can be freed...<NOD
+...The only way to avoid a
+repetition of this tragedy.<NOD<CLRMy master's name is Ballos.<NOD<CLRHis magic powers have gone wild,
+and now he cannot even die...<NOD<ANP0201:0010:0000<FL+1620<END
 
