@@ -23,27 +23,28 @@
 
 #0200
 <PRI<MSG<TUR
-You can't go back...<NOD<END
+There's no going back...<NOD<END
 
 
 
 #0900
 <DNP0900<SKJ0022:0000<SK+0022
-<PRI<MS3
-Jealous of Ballos, the resentful king
-caught and imprisoned him.<NOD
-His punishment was severe and cruel.<NOD
-Humans truly are terrible creatures...<NOD<END
+<PRI<MS3The jealous king had Ballos
+apprehended and thrown into
+prison,<NOD
+where his punishment was
+brutal and cruel.<NOD
+Humans can be terrible
+creatures indeed...<NOD<END
 
 #0901
 <DNP0901<SKJ0023:0000<SK+0023
-<PRI<MS3
-Ballos was driven into a state of pure, 
-uncontrollable rage by the punishment.<NOD
-Weakened by the torture, he was
-helpless to contain the fury.<NOD
-The king and kingdom were swallowed by
-Ballos' wild magical force.<NOD
-The life that he loved so dearly was
-turned into ruins in a single night...
-...Shrouded only by fiery hot ashes.<NOD<END
+<PRI<MS3Under the extreme cruelty of
+the torture, Ballos's magical
+abilities finally ran wild.<NOD
+The king was engulfed in
+the swirl of magic and
+destroyed in an instant.<NOD
+In a single night, the kingdom
+that Ballos so loved was reduced
+to ashen ruins.<NOD<END

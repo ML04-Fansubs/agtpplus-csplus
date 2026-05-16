@@ -112,47 +112,43 @@
 #0390
 <PRI<FLJ1551:0001<FL+1551
 <SOU0022<CNP0390:0021:0000
-<MSG
-Opened the treasure chest.<NOD<CLR<EVE0400
+<MSGOpened the treasure chest.<NOD<CLR<EVE0400
 #0400
 <PRI<FLJ0202:0402<FLJ0201:0401<FL+0201<GIT0005<AM+0005:0100
-<CMU0010Obtained the Missile Launcher.<WAI0160<NOD<RMU<CLR
-The Missile Launcher is a powerful
-weapon, but it has limited ammo.<NOD
-Collect additional ammunition
-from fallen enemies.<NOD<END
+<CMU0010Got the =Missile Launcher=!<WAI0160<NOD<RMU<CLRThe Missile Launcher is a powerful
+weapon, but its ammo is limited.<NOD<CLRYou can replenish your stockpile
+with items dropped by enemies.<NOD<END
 #0401
 <PRI<AM+0005:0032
 <MSG
-<GIT0006Max missiles increased by <NUM0000.<NOD<END
+<GIT0006Max missiles increased by <NUM0000!<NOD<END
 #0402
 <PRI<AM+0010:0024
 <MSG
-<GIT0011Max missiles increased by <NUM0000.<NOD<END
+<GIT0011Max missiles increased by <NUM0000!<NOD<END
 
 
 #0900
 <DNP0900<SKJ0024:0000<SK+0024
-<PRI<MS3
-Driven insane by his punishment,
-Ballos was confined to the floating
-island in the sky by his sister, Jenka.<NOD
-That was all she could do.<NOD
-For Jenka, killing her own younger
-brother would be impossible.<NOD<END
+<PRI<MS3Jenka, seeing her brother's
+madness, confined him to this
+floating island.<NOD
+That was the most she could do.<NOD
+Even as he was, she could not
+bring herself to kill her own
+brother...<NOD<END
 
 
 #0901
 <DNP0901<SKJ0025:0000<SK+0025
-<PRI<MS3
-Jenka's witch daughter, Misery,
-is to blame for the Demon Crown...<NOD
-She forced Ballos to create it.<NOD
-Because of this offense, she was
-cursed by the Crown, compelled to
-obey whoever possesses it.<NOD
-The curse can be lifted if the Demon
-Crown is destroyed.<NOD<CLR
+<PRI<MS3It was Jenka's daughter Misery
+who made Ballos create the
+=Demon Crown=.<NOD
+She was subsequently cursed by
+the crown, forced to do the
+bidding of all who wear it.<NOD
+If the crown is destroyed,
+the curse is lifted.<NOD<CLR
 However...<NOD<END
 
 #1000
