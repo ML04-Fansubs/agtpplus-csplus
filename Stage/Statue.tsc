@@ -39,29 +39,29 @@
 
 #0210
 <KEY<FLJ1590:0220<MSG<TUR
-[ Halda ]<NOD<END
+  "Halda" <NOD<END
 #0211
 <KEY<FLJ1591:0221<MSG<TUR
-[ Annachponae ]<NOD<END
+  "Annachponae" <NOD<END
 #0212
 <KEY<FLJ1592:0222<MSG<TUR
-[ Miakid ]<NOD<END
+  "Miakid" <NOD<END
 #0213
 <KEY<FLJ1593:0223<MSG<TUR
-[ Fuyuhiko Date ]<NOD<END
+  "Fuyuhiko Date" <NOD<END
 
 #0220
 <KEY<MSG<TUR
-[ Quote ]<NOD<END
+  "Quote" <NOD<END
 #0221
 <KEY<MSG<TUR
-[ Toroko ]<NOD<END
+  "Toroko" <NOD<END
 #0222
 <KEY<MSG<TUR
-[ King ]<NOD<END
+  "King" <NOD<END
 #0223
 <KEY<MSG<TUR
-[ Curly Brace ]<NOD<END
+  "Curly Brace" <NOD<END
 
 
 #0300

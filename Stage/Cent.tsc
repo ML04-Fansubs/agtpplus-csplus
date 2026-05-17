@@ -329,11 +329,9 @@ at a frightening rate.<NOD<END
 #0450
 <PRI<FLJ1040:0451<FL+1040<MSGLong time no arf!<NOD<CLRI was told to bring this
 to you...<NOD
-This is for you.<NOD<CLR<SOU0022<CMU0016<GIT1006
-Got a =Life Capsule=!<WAI0160<NOD<RMU<ML+0005
+This is for you.<NOD<CLR<SOU0022<CMU0016<GIT1006Got a =Life Capsule=!<WAI0160<NOD<RMU<ML+0005
 Max life increased by 5.<NOD<GIT0000<ITJ0015:0451<CLROh, she said to give you
-this, too...<NOD<CLR
-<CMU0010<GIT1015<IT+0015<GIT1015Got a =Life Pot=!<WAI0160<NOD<GIT0000<RMU<EVE0451
+this, too...<NOD<CLR<CMU0010<GIT1015<IT+0015<GIT1015Got a =Life Pot=!<WAI0160<NOD<GIT0000<RMU<EVE0451
 
 #0451
 <PRI<MSGSo you're going to fight

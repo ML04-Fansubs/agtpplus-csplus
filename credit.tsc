@@ -11,7 +11,6 @@
 [ reliable brother]0000-0016
 [  Kazuma Sakamoto]0002-0064
 [Sue's mother]0000-0032
-[ ]0003-0016
 [  Momorin Sakamoto]0003-0064
 [Sue's grandfather]0000-0016
 [ figure]0000-0016
@@ -22,41 +21,30 @@
 -0063
 [- Mimiga Village -]0000-0064
 [Sweet and brave]0000-0032
-[ ]0013-0016
 [  Toroko]0013-0064
 [The village leader]0000-0032
-[ ]0014-0016
 [  King]0014-0064
 [The Number-Two]0000-0032
-[ ]0015-0016
 [  Jack]0015-0064
 [Never stops eating]0000-0032
-[ ]0016-0016
 [  Mahin]0016-0064
 [Loves to fish]0000-0032
-[ ]0020-0016
 [  Kanpachi]0020-0064
 [Mans the farm]0000-0032
-[ ]0019-0016
 [  Sandaime]0019-0064
 -0063
 [- Grasstown -]0000-0064
 [Lives alone]0000-0032
-[ ]0017-0016
 [  Santa]0017-0064
 [The colored Mimiga]0000-0032
-[ ]0018-0016
 [  Chaco]0018-0064
 [Power Room watcher]0000-0032
-[ ]0025-0016
 [  Malco]0025-0064
 -0063
 [- Sand Zone -]0000-0064
 [Ally of the Mimigas]0000-0032
-[ ]0007-0016
 [  Curly]0007-0064
 [Raised by Curly]0000-0032
-[ ]0008-0016
 [  The Colons]0008-0064
 [Original keeper of]0000-0016
 [ the Sand Zone]0000-0016
@@ -77,18 +65,14 @@
 [ resident physician]0000-0016
 [  Dr. Gero]0028-0064
 [I am a nurse!]0000-0032
-[ ]0029-0016
 [  Nurse Hasumi]0029-0064
 -0063
 [- Plantation -]0000-0064
 [The girl Mimiga]0000-0032
-[ ]0023-0016
 [  Chie]0023-0064
 [The grandpa Mimiga]0000-0032
-[ ]0024-0016
 [  Zett]0024-0064
 [Sprinkler manager]0000-0032
-[ ]0022-0016
 [  Megane]0022-0064
 [Believers in the]0000-0016
 [ Doctor]0000-0016
@@ -101,15 +85,12 @@ f2000:0090
 [ betrayer]0000-0016
 [  The Doctor]0006-0064
 [The Doctor's servant]0000-0032
-[ ]0011-0016
 [  Misery]0011-0064
 [Misery's punching bag]0000-0032
-[ ]0012-0016
 [  Balrog]0012-0064
 -0063
 [- Etcetera -]0000-0064
 [The Hermit Gunsmith]0000-0032
-[ ]0035-0016
 [  Tetsuzou Kamadani]0035-0064
 [The mysterious]0000-0016
 [ mushroom]0000-0016
@@ -121,7 +102,6 @@ f2000:0090
 [ native inhabitants]0000-0016
 [  Cthulhu]0032-0064
 [The statue carver]0000-0032
-[ ]0088-0016
 [  Numahachi]0088-0064
 -0063
 j0100
@@ -129,18 +109,14 @@ j0100
 l0090
 [- Villains -]0000-0064
 [Entranced by the Crown]0000-0032
-[ ]0006-0016
 [  The Doctor]0006-0064
 [Cursed by the Crown]0000-0032
-[ ]0011-0016
 [  Misery]0011-0064
 [Ultimately a friend]0000-0032
-[ ]0012-0016
 [  Balrog]0012-0064
 -0063
 [- Others -]0000-0064
 [The Hermit Gunsmith]0000-0032
-[ ]0035-0016
 [  Tetsuzou Kamadani]0035-0064
 [The memory-restoring]0000-0016
 [ mushroom]0000-0016
@@ -152,7 +128,6 @@ l0090
 [ native inhabitants]0000-0016
 [  Cthulhu]0032-0064
 [The statue carver]0000-0032
-[ ]0088-0016
 [  Numahachi]0088-0064
 -0063
 [- Bloody Holy Land -]0000-0064
@@ -236,16 +211,13 @@ l0200
 [ lurks in the sand]0000-0016
 [  Omega]0105-0064
 [Dosed with red flowers]0000-0032
-[ ]0108-0016
 [  Toroko +]0108-0064
 [Ghost that invaded the]0000-0016
 [ clinic]0000-0016
 [  Pooh Black]0030-0064
 [Big boss in the labyrinth]0000-0032
-[ ]0108-0016
 [  Monster X]0070-0064
 [Heart of the island]0000-0032
-[ ]0106-0016
 [  Core]0106-0064
 [Big fish in the island's]0000-0016
 [ artery]0000-0016
@@ -254,7 +226,6 @@ l0200
 [ attackers]0000-0016
 [  Sisters]0080-0064
 [True heroes meet the]0000-0032
-[ ]0089-0016
 [  Red Demon]0089-0064
 [The red crystal runs]0000-0016
 [ wild]0000-0016
@@ -265,7 +236,6 @@ l0200
 f2000:0290j0300l0290
 -0002
 [The swollen mech]0000-0032
-[ ]0111-0016
 [  Heavy Press]0111-0064
 [Hate and madness given]0000-0016
 [ flesh]0000-0016
@@ -322,8 +292,8 @@ l0300
 
 [Localization]0000-0032
 [Yoko Saito]0000-0032
-[Rie Hagihara]0000-0048
-[*Aeon Genesis Translation]0000-0048
+[Rie Hagihara]0000-0032
+[*Aeon Genesis (AGTP)]0000-0032
 [*Aaron "Aar" Pearson]0000-0048
 
 [Testers]0000-0032
