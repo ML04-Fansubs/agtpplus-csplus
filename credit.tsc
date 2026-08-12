@@ -36,17 +36,17 @@
 [- Grasstown -]0000-0064
 [Lives alone]0000-0032
 [  Santa]0017-0064
-[The colored Mimiga]0000-0032
-[  Chaco]0018-0064
-[Power Room watcher]0000-0032
+[The colorful Mimiga]0000-0032
+[  Chako]0018-0064
+[Power Room guard]0000-0032
 [  Malco]0025-0064
 -0063
 [- Sand Zone -]0000-0064
-[Ally of the Mimigas]0000-0032
+[Ally of the Mimiga]0000-0032
 [  Curly]0007-0064
 [Raised by Curly]0000-0032
 [  The Colons]0008-0064
-[Original keeper of]0000-0016
+[Former keeper of]0000-0016
 [ the Sand Zone]0000-0016
 [  Jenka]0009-0064
 -0031
@@ -89,7 +89,7 @@ f2000:0090
 [Misery's punching bag]0000-0032
 [  Balrog]0012-0064
 -0063
-[- Etcetera -]0000-0064
+[- Et cetera -]0000-0064
 [The Hermit Gunsmith]0000-0032
 [  Tetsuzou Kamadani]0035-0064
 [The mysterious]0000-0016
@@ -98,8 +98,8 @@ f2000:0090
 [The family living in]0000-0016
 [ the outer wall]0000-0016
 [  The Littles]0031-0064
-[The mysterious]0000-0016
-[ native inhabitants]0000-0016
+[The enigmatic]0000-0016
+[ natives]0000-0016
 [  Cthulhu]0032-0064
 [The statue carver]0000-0032
 [  Numahachi]0088-0064
@@ -124,13 +124,13 @@ l0090
 [The family living in]0000-0016
 [ the outer wall]0000-0016
 [  The Littles]0031-0064
-[The mysterious]0000-0016
-[ native inhabitants]0000-0016
+[The enigmatic]0000-0016
+[ natives]0000-0016
 [  Cthulhu]0032-0064
 [The statue carver]0000-0032
 [  Numahachi]0088-0064
 -0063
-[- Bloody Holy Land -]0000-0064
+[- Seal Chamber -]0000-0064
 [Jenka's sorrowful]0000-0016
 [ younger brother]0000-0016
 [  Ballos]0103-0064
@@ -148,18 +148,18 @@ l0100
 [ Charges when angered: Behemoth]0048-0048
 [ White mushroom: Pignon]0042-0048
 [ Worth eating: Giant Pignon]0043-0048
-[ There's only one: Chinfish]0038-0048
+[ There's only one: Rare Fish]0038-0048
 [ Slices you up: Gravekeeper]0044-0048
 [ Floor-hugging flash: Basil]0049-0048
 [ A model insect: Beetle]0046-0048
 [ The big flyer: Basu]0047-0048
 [ The crusher: Power Critter]0050-0048
 [ White mold ghost: Mannan]0051-0048
-[ Tiny frog: Puchi]0054-0048
+[ Tiny frog: Petit]0054-0048
 [ Big croaker: Frog]0055-0048
 [ Floats about: Jelly]0052-0048
-[ Queen Jelly: Kulala]0053-0048
-[ Violent Mimiga: Rabil]0057-0048
+[ Queen Jelly: Kurara]0053-0048
+[ Violent Mimiga: Ravil]0057-0048
 [ Instant deathtrap: Press]0056-0048
 [ Sudden chomper: Sandcroc]0061-0048
 [ Wandering skull: Skullhead]0063-0048
@@ -169,11 +169,11 @@ l0100
 [ Tough missile: Armadillo]0060-0048
 [ From one, many: Polish]0059-0048
 [ Scattering everywhere: Baby]0058-0048
-[ From Frenzied Toroko: Flowercub]0066-0048
+[ From Rabid Toroko: Flowercub]0066-0048
 [ Labyrinth dweller: Gaudi]0067-0048
 [ Labyrinth warrior: Armor]0068-0048
 [ Labyrinth baby: Gaudi Egg]0069-0048
-[ Fiery fan: Fire Whirrr]0071-0048
+[ Fiery fan: Fire Whirl]0071-0048
 [ Unknown organism: Buyobuyo Base]0073-0048
 [ And: Buyobuyo]0072-0048
 [ Gaudi spirit: Fuzz]0074-0048
@@ -195,13 +195,13 @@ f2000:0190j0200l0190
 [ Hell's messenger: Mesa]0099-0048
 [ Innocent demon: Green Devil]0100-0048
 [ Rolls along the walls: Rolling]0094-0048
-[ Blocks passage: Deleet]0095-0048
+[ Blocks passage: Delete]0095-0048
 l0200
 -0100
 +0032
 [ = Bosses = ]0000-0032
 -0063
-[Frenzied Mimiga that]0000-0016
+[Rabid Mimiga who]0000-0016
 [ kidnapped Sue]0000-0016
 [  Igor]0091-0064
 [Misery transformed]0000-0016
@@ -212,9 +212,9 @@ l0200
 [  Omega]0105-0064
 [Dosed with red flowers]0000-0032
 [  Toroko +]0108-0064
-[Ghost that invaded the]0000-0016
+[Ghost haunting the]0000-0016
 [ clinic]0000-0016
-[  Pooh Black]0030-0064
+[  Puu Black]0030-0064
 [Big boss in the labyrinth]0000-0032
 [  Monster X]0070-0064
 [Heart of the island]0000-0032
@@ -226,7 +226,7 @@ l0200
 [ attackers]0000-0016
 [  Sisters]0080-0064
 [True heroes meet the]0000-0032
-[  Red Demon]0089-0064
+[  Red Ogre]0089-0064
 [The red crystal runs]0000-0016
 [ wild]0000-0016
 [  Muscle Doctor]0109-0064
@@ -294,7 +294,8 @@ l0300
 [Yoko Saito]0000-0032
 [Rie Hagihara]0000-0032
 [*Aeon Genesis (AGTP)]0000-0032
-[*Aaron "Aar" Pearson]0000-0048
+[*Aaron "Aar" Pearson]0000-0032
+[*ML04-Fansubs]0000-0048
 
 [Testers]0000-0032
 [Pikii GK]0000-0048
